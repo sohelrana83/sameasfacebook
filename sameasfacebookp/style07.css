@@ -1,0 +1,223 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.header-area{
+	background: #3F5C9A;
+	padding: 15px 0;
+}
+.middle-area{
+	width: 80%;
+	margin: auto; 
+	
+}
+.logo-area{
+	width: 60%;
+	float: left;
+}
+.login-area{
+	width: 40%;
+	float: left;
+}
+
+
+.logo-area a {
+	margin-top: 10px;
+	display: block;
+}
+
+.header-area:after{
+	content: " ";
+	display: block;
+	clear: both;
+}
+.login-fast{   
+	float: left;
+}
+
+.login-second{   
+	float: left;
+}
+.login-submit{   
+	float: left;
+}
+.amader-form form{
+	float: right;
+}
+.amader-form:after{
+	content: " ";
+	display: block;
+	clear: both;
+}
+.login-area input {
+    display: block;
+    margin-right: 10px;
+    font-size: 13px;
+	border-color: 1px solid #d2a5b;
+
+}
+.login-area label{
+	color:#fff;
+	font-size: 15px;
+	cursor: pointer;
+	margin-bottom: 5px;
+	display: block;
+}
+.login-second a{
+	color: #9cb4d8;
+	text-decoration: none;
+	font-size: 13px;
+}
+.login-second a:hover{
+	text-decoration: underline;
+	
+}
+.login-submit input{
+	margin-top: 24px;
+	display: block;
+	background: #4267b2;
+	cursor: pointer;
+	border: 1px solid #4267b2;
+	color: #fff;
+}
+.login-submit input:hover{
+	background: #365899;
+	border: 1px solid #365899;
+}
+
+
+
+
+
+
+.signup-left{
+	width: 60%;
+	float: left;
+
+}
+.signup-right{
+	width: 40%;
+	float: left;
+}
+.signup-area{
+	background: linear-gradient(#ffffff,#D5D9E9);
+
+}
+.signup-area:after{
+	content: " ";
+	display: block;
+	clear: both;
+
+}
+.signup-left p{
+	color: #0E385F;
+	font-size: 20px;
+	font-weight: bold;
+	width: 70%;
+}
+.signup-right h2{
+	color: #333333;
+	font-size: 36px;
+	margin-bottom: 5px;
+}
+.signup-right > p{
+	color: #333;
+	font-size: 20px;
+	margin: 12px 0;
+}
+.signup-right .main-input input{
+	width: 100%;
+	font-size: 20px;
+	padding: 6px;
+	margin: 5px 0;
+	border-radius: 5px;
+	border: 1px solid #BDC7D8;
+	box-sizing: border-box;
+}
+.signup-right .username input:nth-child(1){
+	float: left;
+	width: 48%;
+}
+.signup-right .username input:nth-child(2){
+	float: right;
+	width: 48%;
+}
+.signup-area .birth-day p{
+	color: #A4A4A4;
+	font-weight: normal;
+	font-size: 20px;
+	margin-bottom: 5px;
+}
+.box-area select{
+	border: 1px solid #BDC7D8;
+	font-size: 15px;
+	padding: 3px;
+}
+.gender p{
+	color: #A4A4A4;
+	font-weight: normal;
+	font-size: 20px;
+	margin-bottom: 5px;
+}
+
+} 
+.signup-right:after{
+	content: " ";
+	display: block;
+	clear: both;
+}
+.gender label{
+	 color: #333;
+	 font-size: 20px;
+	 margin: 5px;
+	
+}
+.t p{
+	color: #777;
+	font-size: 11px;
+	width: 297px;
+    margin-top: 16px;	
+}
+a{
+	color: #576DC0;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+.signup-area input[type="submit"]{
+	width: 43%;
+	margin-top: 15px;
+	padding: 8px;
+	background: linear-gradient(#659E51,#578843);
+	border: 1px solid #3B6E22;
+	border-radius: 5px;
+	font-size: 16px;
+	color: #fff;
+	font-weight: normal;
+}
+.signup-area input[type="submit"]:hover{
+	background: linear-gradient(#578843,#659E51)
+}
+.last-h2 h2{
+	color: #666;
+	font-size: 14px;
+	font-weight: bold;
+	margin-top: 10px;
+	padding-top: 15px;
+}
+
+	
+
+
+
+
+
+
+
+
+
+
+
+	
+
